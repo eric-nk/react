@@ -1,0 +1,17 @@
+p{
+  height: 45px;
+  color: aqua;
+}
+nav{
+
+  background-color: black;
+  
+  width: 800px;
+  height: 90px;
+}
+.style{
+  justify-content: space-between;
+  color: aliceblue;
+  align-items: center;
+
+}
